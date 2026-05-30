@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filterferify",
+        "uuid": 6776368,
+        "checksum": "tvctah"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
